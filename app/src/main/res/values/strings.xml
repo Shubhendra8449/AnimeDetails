@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gallery App</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="full_image">full image</string>
+    <string name="top_anime">Top Anime</string>
+    <string name="seekho">SEEKHO</string>
+    <string name="rating">Rating:</string>
+    <string name="synopsis_will_appear_here">Synopsis will appear here...</string>
+    <string name="genres">Genres:</string>
+    <string name="episodes_12">Episodes:</string>
+    <string name="rating_8_5">Rating:</string>
+    <string name="episodes">Episodes:</string>
+</resources>
